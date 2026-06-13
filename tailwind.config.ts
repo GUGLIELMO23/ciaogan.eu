@@ -9,7 +9,7 @@ export default {
         body: ["var(--font-sans)", "sans-serif"],
       },
       colors: {
-        cream: "#E9CCA2",
+        cream: "#e9cca27a",
         ink: "#1A1A1A",
         verde: "#6B4F3A",
         terra: "#6B4F3A",
