@@ -108,7 +108,7 @@ export default async function Home() {
           <h2 className="font-display text-3xl font-black text-ink md:text-4xl">{t('courses.title')}</h2>
           <div className="mt-12 grid gap-px overflow-hidden rounded-lg border border-ink/10 bg-ink/10 md:grid-cols-2">
             {courses.map((c) => (
-              <div key={c.n} className="p-8" style={{ backgroundColor: '#E9CCA2' }}>
+              <div key={c.n} className="p-8" style={{ backgroundColor: '#EFE0C0' }}>
                 <div className="flex items-baseline gap-3">
                   <span className="font-display text-sm text-terra">{c.n}</span>
                   <h3 className="font-display text-xl font-bold text-ink">{c.title}</h3>
