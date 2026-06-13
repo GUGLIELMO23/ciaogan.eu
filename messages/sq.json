@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "method": "Metoda",
+    "courses": "Kurset",
+    "about": "Rreth meje",
+    "reviews": "Vlerësime",
+    "book": "Rezervo një mësim"
+  },
+  "hero": {
+    "kicker": "Mësime private italishteje · online",
+    "free": "Mësimi i parë falas",
+    "title": "Mëso italishten me të vërtetë, një bisedë në një kohë.",
+    "subtitle": "Mësime 1-me-1 të personalizuara për të huajt: nga përditshmëria deri te përgatitja për CILS dhe CELI. Pa libra të mërzitshëm, vetëm gjuhë e gjallë.",
+    "ctaPrimary": "Rezervo mësimin falas",
+    "ctaSecondary": "Si funksionon"
+  },
+  "stats": {
+    "students": "studentë",
+    "rating": "vlerësim mesatar",
+    "years": "vite përvojë",
+    "levels": "nivelet A1–C2"
+  },
+  "method": {
+    "title": "Si funksionon",
+    "step1Title": "Flasim për qëllimet e tua",
+    "step1Body": "Një telefonatë falas 20-minutëshe për të kuptuar nivelin, kohën dhe pse të duhet italishtja.",
+    "step2Title": "Ndërtoj rrugën tënde",
+    "step2Body": "Materiale, ushtrime dhe biseda të bëra për ty. Asnjë program standard për të gjithë.",
+    "step3Title": "Përparon çdo javë",
+    "step3Body": "Mësime të rregullta, reagime të vazhdueshme dhe korrigjime të synuara. Flet që nga fillimi."
+  },
+  "courses": {
+    "title": "Çfarë mund të bëjmë së bashku",
+    "conversationTitle": "Bisedë",
+    "conversationBody": "Zhblloko të folurit dhe humb frikën nga gabimet me dialogë realë.",
+    "examTitle": "Përgatitje CILS / CELI",
+    "examBody": "Strategji, simulime dhe gjithçka që duhet për të kaluar çertifikimin.",
+    "grammarTitle": "Gramatikë e qartë",
+    "grammarBody": "Lidhorja, parafjalët, kohët e foljeve: të shpjeguara që të mbeten.",
+    "businessTitle": "Italishtja për punë",
+    "businessBody": "Email, takime dhe fjalor profesional për ata që jetojnë në Itali."
+  },
+  "about": {
+    "title": "Përshëndetje, jam Gan!",
+    "body": "Jap mësime italishteje për të huajt prej vitesh, online dhe drejtpërdrejt. Besoj se një gjuhë mësohet duke e përdorur, jo duke e memorizuar. Mësimet e mia janë të qeta por serioze: argëtohemi dhe ti përparon vërtet. Besoj se të mësosh një gjuhë do të thotë të hapësh dyer të reja, të krijosh mundësi dhe të ndihesh i sigurt në komunikimin me botën. Prandaj do të të shoqëroj hap pas hapi me energji, pasion dhe kujdes, duke e kthyer të mësuarit në një përvojë tërheqëse dhe shpërblyese.",
+    "point1": "Mësime 100% të personalizuara",
+    "point2": "Materialet të përfshira",
+    "point3": "Orare fleksibël"
+  },
+  "reviews": {
+    "title": "Çfarë thonë studentët",
+    "r1": "Më në fund nuk kam më frikë të flas. Gan e bën gjithçka të natyrshme.",
+    "r1Author": "Sarah, Mbretëria e Bashkuar",
+    "r1Flag": "🇬🇧",
+    "r2": "Kalova CILS B2 që në provën e parë. Përgatitje e përkryer.",
+    "r2Author": "Diego, Spanjë",
+    "r2Flag": "🇪🇸",
+    "r3": "Ora më e këndshme e javës sime. Mësoj pa e kuptuar.",
+    "r3Author": "Anna, Gjermani",
+    "r3Flag": "🇩🇪"
+  },
+  "booking": {
+    "title": "Rezervo mësimin tënd",
+    "subtitle": "Zgjidh orarin që të përshtatet. Telefonata e parë njohëse është falas."
+  },
+  "faq": {
+    "title": "Pyetje të shpeshta",
+    "q1": "Në çfarë gjuhe zhvillohen mësimet?",
+    "a1": "Në italisht që nga fillimi, por mund të shpjegoj në anglisht ose shqip kur duhet.",
+    "q2": "Sa zgjat një mësim?",
+    "a2": "Zakonisht 60 minuta, por mund të biem dakord për 30 ose 90 minuta.",
+    "q3": "Si paguaj?",
+    "a3": "Për momentin me transfertë bankare ose PayPal pas rezervimit. Pagesa online vjen së shpejti.",
+    "q4": "A mund të anuloj?",
+    "a4": "Po, deri në 24 orë para mësimit pa asnjë kosto."
+  },
+  "footer": {
+    "tagline": "Mësime private italishteje për të huajt.",
+    "rights": "Të gjitha të drejtat e rezervuara."
+  }
+}

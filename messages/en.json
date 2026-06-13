@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "method": "Method",
+    "courses": "Courses",
+    "about": "About",
+    "reviews": "Reviews",
+    "book": "Book a lesson"
+  },
+  "hero": {
+    "kicker": "Private Italian lessons · online",
+    "title": "Actually learn Italian, one conversation at a time.",
+    "subtitle": "Tailored 1-on-1 lessons for foreigners: from everyday survival to CILS and CELI exam prep. No dusty textbooks, just living language.",
+    "ctaPrimary": "Book your free lesson",
+    "ctaSecondary": "How it works",
+    "free": "First lesson free"
+  },
+  "stats": {
+    "students": "students taught",
+    "rating": "average rating",
+    "years": "years of experience",
+    "levels": "levels A1–C2"
+  },
+  "method": {
+    "title": "How it works",
+    "step1Title": "We talk about your goals",
+    "step1Body": "A free 20-minute call to understand your level, schedule and why you need Italian.",
+    "step2Title": "I build your path",
+    "step2Body": "Materials, exercises and conversations tailored to you. No one-size-fits-all syllabus.",
+    "step3Title": "Progress every week",
+    "step3Body": "Regular lessons, continuous feedback and targeted corrections. You speak from day one."
+  },
+  "courses": {
+    "title": "What we can do together",
+    "conversationTitle": "Conversation",
+    "conversationBody": "Unlock your speaking and lose the fear of mistakes with real dialogue.",
+    "examTitle": "CILS / CELI prep",
+    "examBody": "Strategies, mock exams and everything you need to pass the certification.",
+    "grammarTitle": "Clear grammar",
+    "grammarBody": "Subjunctive, prepositions, verb tenses: explained so they stick.",
+    "businessTitle": "Italian for work",
+    "businessBody": "Emails, meetings and professional vocabulary for living or working in Italy."
+  },
+  "about": {
+    "title": "Hi, I'm Gan!",
+    "body": "I've been teaching Italian to foreigners for years, online and in person. I believe you learn a language by using it, not memorising it. My lessons are relaxed but serious: we have fun and you make real progress. I believe learning a language means opening new doors, creating opportunities and feeling confident communicating with the world. That's why I'll guide you step by step with energy, passion and care, turning learning into an engaging and rewarding experience.",
+    "point1": "100% personalised lessons",
+    "point2": "Materials included",
+    "point3": "Flexible hours across time zones"
+  },
+  "reviews": {
+    "title": "What students say",
+    "r1": "I finally stopped being afraid to speak. Gan makes it all natural.",
+    "r1Author": "Sarah, United Kingdom",
+    "r1Flag": "🇬🇧",
+    "r2": "I passed CILS B2 on the first try. Flawless preparation.",
+    "r2Author": "Diego, Spain",
+    "r2Flag": "🇪🇸",
+    "r3": "The most enjoyable hour of my week. I learn without even noticing.",
+    "r3Author": "Anna, Germany",
+    "r3Flag": "🇩🇪"
+  },
+  "booking": {
+    "title": "Book your lesson",
+    "subtitle": "Choose a time that works for you. The first intro call is free."
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "q1": "What language are the lessons in?",
+    "a1": "In Italian from the start, but I can explain in English or Albanian when needed.",
+    "q2": "How long is a lesson?",
+    "a2": "Usually 60 minutes, but we can agree on 30 or 90 minutes.",
+    "q3": "How do I pay?",
+    "a3": "For now via bank transfer or PayPal after booking. Online payment is coming soon.",
+    "q4": "Can I cancel?",
+    "a4": "Yes, up to 24 hours before the lesson at no cost."
+  },
+  "footer": {
+    "tagline": "Private Italian lessons for foreigners.",
+    "rights": "All rights reserved."
+  }
+}

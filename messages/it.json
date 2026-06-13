@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "method": "Metodo",
+    "courses": "Corsi",
+    "about": "Chi sono",
+    "reviews": "Recensioni",
+    "book": "Prenota una lezione"
+  },
+  "hero": {
+    "kicker": "Lezioni private di italiano · online",
+    "title": "Impara l'italiano davvero, una conversazione alla volta.",
+    "subtitle": "Lezioni 1-a-1 su misura per stranieri: dalla sopravvivenza quotidiana alla preparazione di CILS e CELI. Niente manuali polverosi, solo lingua viva.",
+    "ctaPrimary": "Prenota la lezione gratuita",
+    "ctaSecondary": "Come funziona",
+    "free": "Prima lezione gratuita"
+  },
+  "stats": {
+    "students": "studenti seguiti",
+    "rating": "voto medio",
+    "years": "anni di esperienza",
+    "levels": "livelli A1–C2"
+  },
+  "method": {
+    "title": "Come funziona",
+    "step1Title": "Parliamo dei tuoi obiettivi",
+    "step1Body": "Una chiamata gratuita di 20 minuti per capire livello, tempi e perché ti serve l'italiano.",
+    "step2Title": "Costruisco il tuo percorso",
+    "step2Body": "Materiali, esercizi e conversazioni cuciti su di te. Niente programma standard uguale per tutti.",
+    "step3Title": "Progredisci ogni settimana",
+    "step3Body": "Lezioni regolari, feedback continuo e correzioni mirate. Parli dall'inizio."
+  },
+  "courses": {
+    "title": "Cosa possiamo fare insieme",
+    "conversationTitle": "Conversazione",
+    "conversationBody": "Sblocca la parlata e perdi la paura di sbagliare con dialoghi reali.",
+    "examTitle": "Preparazione CILS / CELI",
+    "examBody": "Strategie, simulazioni e tutto ciò che serve per superare la certificazione.",
+    "grammarTitle": "Grammatica chiara",
+    "grammarBody": "Congiuntivo, preposizioni, tempi verbali: spiegati in modo che restino.",
+    "businessTitle": "Italiano per il lavoro",
+    "businessBody": "Email, riunioni e vocabolario professionale per chi vive o lavora in Italia."
+  },
+  "about": {
+    "title": "Ciao, sono Gan!",
+    "body": "Insegno italiano agli stranieri da anni, online e in presenza. Credo che si impari una lingua usandola, non memorizzandola. Le mie lezioni sono rilassate ma serie: ci divertiamo e tu fai progressi concreti. Credo che imparare una lingua significhi aprire nuove porte, creare opportunità e sentirsi sicuri nel comunicare con il mondo. Per questo ti accompagnerò passo dopo passo con energia, passione e attenzione, trasformando l'apprendimento in un'esperienza coinvolgente e gratificante.",
+    "point1": "Lezioni 100% personalizzate",
+    "point2": "Materiali inclusi",
+    "point3": "Orari flessibili su più fusi"
+  },
+  "reviews": {
+    "title": "Cosa dicono gli studenti",
+    "r1": "Finalmente ho smesso di avere paura di parlare. Gan rende tutto naturale.",
+    "r1Author": "Sarah, Regno Unito",
+    "r1Flag": "🇬🇧",
+    "r2": "Ho superato il CILS B2 al primo tentativo. Preparazione impeccabile.",
+    "r2Author": "Diego, Spagna",
+    "r2Flag": "🇪🇸",
+    "r3": "Le lezioni più piacevoli della mia settimana. Imparo senza nemmeno accorgermene.",
+    "r3Author": "Anna, Germania",
+    "r3Flag": "🇩🇪"
+  },
+  "booking": {
+    "title": "Prenota la tua lezione",
+    "subtitle": "Scegli l'orario che preferisci. La prima chiamata conoscitiva è gratuita."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "q1": "In che lingua si svolgono le lezioni?",
+    "a1": "In italiano fin dall'inizio, ma posso spiegare in inglese o albanese quando serve.",
+    "q2": "Quanto dura una lezione?",
+    "a2": "Di solito 60 minuti, ma possiamo concordare 30 o 90 minuti.",
+    "q3": "Come pago?",
+    "a3": "Per ora tramite bonifico o PayPal dopo la prenotazione. Il pagamento online arriverà presto.",
+    "q4": "Posso disdire?",
+    "a4": "Sì, fino a 24 ore prima della lezione senza alcun costo."
+  },
+  "footer": {
+    "tagline": "Lezioni private di italiano per stranieri.",
+    "rights": "Tutti i diritti riservati."
+  }
+}
