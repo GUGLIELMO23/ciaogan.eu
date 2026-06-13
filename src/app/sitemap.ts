@@ -9,10 +9,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(),
     changeFrequency: 'monthly',
     priority: locale === 'it' ? 1 : 0.8,
-    alternates: {
-      languages: Object.fromEntries(
-        locales.map((l) => [l, `${BASE_URL}/${l}`])
-      ),
-    },
   }));
 }
